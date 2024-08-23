@@ -15,8 +15,9 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
+          BLOCKS: ░▒▓█ # optional
           TIME_RANGE: all_time # optional
+          CODE_LANG: rust
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
