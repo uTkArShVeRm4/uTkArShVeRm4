@@ -16,7 +16,7 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: ░▒▓█ # optional
-          TIME_RANGE: all_time # optional
+          TIME_RANGE: last_7_days # optional
           CODE_LANG: rust
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
