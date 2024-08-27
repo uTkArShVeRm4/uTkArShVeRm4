@@ -3,16 +3,15 @@ Hello World!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 August 2024 - To: 26 August 2024
+From: 20 August 2024 - To: 27 August 2024
 
-Total Time: 9 hrs 58 mins
+Total Time: 8 hrs 15 mins
 
-Rust        8 hrs 37 mins   █████████████████████▒░░░   85.19 %
-YAML        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-xxd         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Python      16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-gitignore   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Other       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Rust        7 hrs 5 mins    █████████████████████░░░░   84.19 %
+YAML        17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+xxd         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+gitignore   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Other       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
