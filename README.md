@@ -3,15 +3,15 @@ Hello World!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 August 2024 - To: 31 August 2024
+From: 25 August 2024 - To: 01 September 2024
 
-Total Time: 7 hrs 3 mins
+Total Time: 4 hrs 10 mins
 
-Rust     4 hrs 43 mins   ████████████████▓░░░░░░░░   66.17 %
-Python   1 hr 51 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.09 %
-xxd      13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-YAML     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Other    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Rust     2 hrs 15 mins   █████████████▓░░░░░░░░░░░   54.18 %
+Python   1 hr 51 mins    ███████████░░░░░░░░░░░░░░   44.58 %
+xxd      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
