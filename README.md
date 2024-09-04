@@ -3,16 +3,17 @@ Hello World!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 August 2024 - To: 03 September 2024
+From: 28 August 2024 - To: 04 September 2024
 
-Total Time: 7 hrs 5 mins
+Total Time: 7 hrs 41 mins
 
-Rust         5 hrs 8 mins    ██████████████████░░░░░░░   72.46 %
-Python       1 hr 51 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
-xxd          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Rust         5 hrs 37 mins   ██████████████████▒░░░░░░   72.97 %
+Python       1 hr 51 mins    ██████░░░░░░░░░░░░░░░░░░░   24.20 %
+xxd          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
