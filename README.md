@@ -3,7 +3,7 @@ Hello World!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 September 2024 - To: 20 September 2024
+From: 14 September 2024 - To: 21 September 2024
 
 Total Time: 17 mins
 
