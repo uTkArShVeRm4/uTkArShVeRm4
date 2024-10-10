@@ -3,16 +3,18 @@ Hello World!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 October 2024 - To: 09 October 2024
+From: 03 October 2024 - To: 10 October 2024
 
-Total Time: 5 hrs 25 mins
+Total Time: 6 hrs 42 mins
 
-Python         5 hrs 6 mins    ███████████████████████▒░   93.44 %
-YAML           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-JSON           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Text           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Bash           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Other          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Python         5 hrs 15 mins   ███████████████████▓░░░░░   78.06 %
+Rust           51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+jsonc          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+JSON           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+YAML           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Text           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Bash           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Other          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
