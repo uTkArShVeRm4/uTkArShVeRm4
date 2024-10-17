@@ -3,13 +3,13 @@ Hello World!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 October 2024 - To: 16 October 2024
+From: 10 October 2024 - To: 17 October 2024
 
-Total Time: 17 hrs 9 mins
+Total Time: 16 hrs 52 mins
 
-Python         12 hrs 9 mins   █████████████████░░░░░░░░   67.68 %
-Rust           2 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
-Other          49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Python         13 hrs          ██████████████████▒░░░░░░   73.55 %
+Rust           1 hr 47 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+Other          49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
 ```
 
 <!--END_SECTION:waka-->
