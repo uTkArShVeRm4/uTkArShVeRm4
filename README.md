@@ -3,17 +3,13 @@ Hello World!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 November 2024 - To: 11 November 2024
+From: 05 November 2024 - To: 12 November 2024
 
-Total Time: 11 hrs 24 mins
+Total Time: 11 hrs 48 mins
 
-Python       8 hrs 48 mins   ███████████████████▒░░░░░   76.85 %
-conf         1 hr 41 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
-JavaScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Bash         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Nix          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Python       8 hrs 51 mins   ██████████████████▒░░░░░░   73.26 %
+conf         1 hr 50 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
+Other        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
