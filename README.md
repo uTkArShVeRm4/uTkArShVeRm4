@@ -3,17 +3,16 @@ Hello World!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 November 2024 - To: 28 November 2024
+From: 22 November 2024 - To: 29 November 2024
 
-Total Time: 12 hrs 43 mins
+Total Time: 10 hrs 59 mins
 
-Python       6 hrs 47 mins   █████████████▒░░░░░░░░░░░   52.74 %
-Nushell      2 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   19.70 %
-Markdown     1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
-CSV          26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-YAML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Bash         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Python       5 hrs 19 mins   ████████████░░░░░░░░░░░░░   47.80 %
+Nushell      2 hrs 31 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
+Markdown     1 hr 39 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
+CSV          26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+YAML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
