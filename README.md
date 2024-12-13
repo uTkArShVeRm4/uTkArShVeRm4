@@ -3,17 +3,16 @@ Hello World!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 December 2024 - To: 12 December 2024
+From: 06 December 2024 - To: 13 December 2024
 
-Total Time: 8 hrs 45 mins
+Total Time: 10 hrs 57 mins
 
-Markdown     3 hrs 53 mins   ███████████░░░░░░░░░░░░░░   43.55 %
-Python       1 hr 50 mins    █████░░░░░░░░░░░░░░░░░░░░   20.54 %
-Rust         1 hr 30 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
-JSON         36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-Nushell      34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Nix          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Rust       4 hrs 5 mins    █████████▒░░░░░░░░░░░░░░░   36.99 %
+Python     2 hrs 50 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.65 %
+Markdown   2 hrs 43 mins   ██████░░░░░░░░░░░░░░░░░░░   24.66 %
+JSON       36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Nushell    34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Other      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
