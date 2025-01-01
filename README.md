@@ -3,18 +3,18 @@ Hello World!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 December 2024 - To: 31 December 2024
+From: 25 December 2024 - To: 01 January 2025
 
-Total Time: 8 hrs 52 mins
+Total Time: 13 hrs 46 mins
 
-Python        4 hrs 31 mins   ████████████▓░░░░░░░░░░░░   50.67 %
-Markdown      1 hr 44 mins    █████░░░░░░░░░░░░░░░░░░░░   19.53 %
-Go            1 hr 28 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
-Text          35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-Lua           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Nushell       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Image (png)   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Other         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Python        6 hrs 9 mins    ███████████░░░░░░░░░░░░░░   44.52 %
+Go            4 hrs 39 mins   ████████▒░░░░░░░░░░░░░░░░   33.62 %
+Markdown      1 hr 57 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+Text          35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Lua           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Image (png)   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Nix           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Other         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
