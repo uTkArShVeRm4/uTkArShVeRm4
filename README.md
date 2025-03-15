@@ -3,19 +3,19 @@ Hello World!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 March 2025 - To: 14 March 2025
+From: 08 March 2025 - To: 15 March 2025
 
-Total Time: 14 hrs 50 mins
+Total Time: 10 hrs 12 mins
 
-Python                    4 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   27.42 %
-TypeScript                3 hrs 59 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.94 %
-Rust                      1 hr 55 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
-Markdown                  1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-C++                       58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-Go                        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-TOML                      16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-WebGPU Shading Language   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Bash                      12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+TypeScript    3 hrs 59 mins   █████████▓░░░░░░░░░░░░░░░   39.17 %
+Markdown      1 hr 45 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
+Python        1 hr 32 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
+Rust          42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+C++           37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Go            28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+TOML          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+JSON          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+JavaScript    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
