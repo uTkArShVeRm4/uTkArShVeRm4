@@ -3,15 +3,14 @@ Hello World!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 March 2025 - To: 01 April 2025
+From: 26 March 2025 - To: 02 April 2025
 
-Total Time: 3 hrs 24 mins
+Total Time: 2 hrs 58 mins
 
-Python        1 hr 10 mins    ████████▒░░░░░░░░░░░░░░░░   33.53 %
-C             49 mins         ██████░░░░░░░░░░░░░░░░░░░   23.49 %
-Nushell       47 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
-Nix           21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-Other         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Python         1 hr 47 mins    ██████████████▓░░░░░░░░░░   58.27 %
+Nushell        43 mins         ██████░░░░░░░░░░░░░░░░░░░   23.42 %
+Markdown       16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+Other          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
 ```
 
 <!--END_SECTION:waka-->
