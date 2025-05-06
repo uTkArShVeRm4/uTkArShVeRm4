@@ -3,12 +3,12 @@ Hello World!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 April 2025 - To: 05 May 2025
+From: 29 April 2025 - To: 06 May 2025
 
-Total Time: 5 hrs 13 mins
+Total Time: 3 hrs 29 mins
 
-Nushell       2 hrs 25 mins   █████████▓░░░░░░░░░░░░░░░   38.36 %
-Other         1 hr 6 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.54 %
+Nushell       1 hr 51 mins    ███████████░░░░░░░░░░░░░░   44.60 %
+Other         39 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
 ```
 
 <!--END_SECTION:waka-->
