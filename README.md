@@ -3,14 +3,14 @@ Hello World!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 31 May 2025 - To: 07 June 2025
+From: 01 June 2025 - To: 08 June 2025
 
 Total Time: 14 hrs 45 mins
 
-Python       6 hrs 35 mins   ███████████░░░░░░░░░░░░░░   44.59 %
-TypeScript   3 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   23.47 %
-Markdown     2 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
-sh           46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Python       6 hrs 35 mins   ███████████░░░░░░░░░░░░░░   44.63 %
+TypeScript   3 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   23.48 %
+Markdown     2 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.87 %
+sh           46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
 Nix          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 SCSS         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
