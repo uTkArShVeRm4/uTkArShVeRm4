@@ -3,20 +3,20 @@ Hello World!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 July 2025 - To: 11 July 2025
+From: 05 July 2025 - To: 12 July 2025
 
-Total Time: 7 hrs 8 mins
+Total Time: 9 hrs 4 mins
 
-Rust                      1 hr 52 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
-Python                    1 hr 38 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.09 %
-WebGPU Shading Language   55 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
-JavaScript                40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
-TypeScript                28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-TOML                      22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-CSS                       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-Bash                      10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-Nix                       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Markdown                  5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+TypeScript                2 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
+Python                    2 hrs 2 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.52 %
+JavaScript                1 hr 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+CSS                       56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+Rust                      56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+WebGPU Shading Language   55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+TOML                      12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Bash                      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+JSON                      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+HTML                      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
